@@ -17,9 +17,6 @@ Convolutional neural networks (CNNs) can automatically learn data patterns to ex
     │   └── ...
     ├── checkpoints
     ├── logs
-    │   │   ├── test
-    │   │   ├── gt(if need)
-    │   │   └── test.txt
     └── ...
 ## Train
 Ms-celeb-1m pretrained model, our model weights are all available on [GooleDrive](https://drive.google.com/drive/folders/1st0sETk5Jw0Qs6o4qcAKPn5EWAJJR_vc?usp=sharing)
