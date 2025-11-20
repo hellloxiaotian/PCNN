@@ -28,4 +28,6 @@ options are available in train.py
 ~~~
 python val.py
 ~~~
-options are available in val.py
+options are available in val.py.  
+`val_complex.py` is the script for evaluation of complexity.  
+`val_cross.py` is the script for evalaution on occlusion and pose variant datasets.  
