@@ -20,15 +20,27 @@ Convolutional neural networks (CNNs) can automatically learn data patterns to ex
     └── ...
 ## Train
 Ms-celeb-1m pretrained model, our model weights are all available on [GooleDrive](https://drive.google.com/drive/folders/1st0sETk5Jw0Qs6o4qcAKPn5EWAJJR_vc?usp=sharing)
-~~~shell
+```shell
 python train.py
-~~~
+```
 options are available in train.py 
 ## Test
-~~~
+```shell
 python val.py
-~~~
+```
 options are available in val.py.  
 `val_complex.py` is the script for evaluation of complexity.  
 `val_cross.py` is the script for evalaution on occlusion and pose variant datasets.  
 ## Citation
+```bibtex
+@article{tian_perception_2025,
+  author={Tian, Chunwei and Xie, Jingyuan and Li, Lingjun and Zuo, Wangmeng and Zhang, Yanning and Zhang, David},
+  journal={IEEE Transactions on Image Processing}, 
+  title={A Perception CNN for Facial Expression Recognition}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Facial expression recognition;sense information;multi-domain interaction;perception network},
+  doi={10.1109/TIP.2025.3637715}}
+```
