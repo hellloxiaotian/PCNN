@@ -42,5 +42,6 @@ options are available in val.py.
   number={},
   pages={8101 - 8113},
   keywords={Facial expression recognition;sense information;multi-domain interaction;perception network},
-  doi={10.1109/TIP.2025.3637715}}
+  doi={10.1109/TIP.2025.3637715}
+}
 ```
