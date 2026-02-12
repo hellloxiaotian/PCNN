@@ -40,7 +40,7 @@ class PCNN(nn.Module):
         # 区域划分参数
         self.w1 = torch.tensor(0.5)
         self.w2 = torch.tensor(0.75)
-        self.h1 = torch.tensor(0.4)
+        self.h1 = torch.tensor(0.5)
         self.h2 = torch.tensor(0.65)
 
         # STN定位网络
