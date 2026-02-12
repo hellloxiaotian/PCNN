@@ -19,7 +19,7 @@ Convolutional neural networks (CNNs) can automatically learn data patterns to ex
     ├── logs
     └── ...
 ## Train
-Ms-celeb-1m pretrained model, our PCNN model weights and a tiny demo dataset (selected from raf-db) are all available on [GooleDrive](https://drive.google.com/drive/folders/1st0sETk5Jw0Qs6o4qcAKPn5EWAJJR_vc?usp=sharing)
+Ms-celeb-1m pretrained model, our PCNN model weights and a tiny demo dataset (selected from raf-db) are all available on [GoogleDrive](https://drive.google.com/drive/folders/1st0sETk5Jw0Qs6o4qcAKPn5EWAJJR_vc?usp=sharing)
 ```shell
 python train.py
 ```
