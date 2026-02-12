@@ -38,9 +38,9 @@ options are available in val.py.
   journal={IEEE Transactions on Image Processing}, 
   title={A Perception CNN for Facial Expression Recognition}, 
   year={2025},
-  volume={},
+  volume={34},
   number={},
-  pages={1-1},
+  pages={8101 - 8113},
   keywords={Facial expression recognition;sense information;multi-domain interaction;perception network},
   doi={10.1109/TIP.2025.3637715}}
 ```
